@@ -12,7 +12,7 @@
 
 
 # def person(name , age=18):
-#     print(name)
+#     print(namerdfnfn)
 #     print(age)
 #
 # person('navin',28)
